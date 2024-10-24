@@ -1,6 +1,6 @@
 def func(x):
-    return x + 1
-
+    return x + 5
+#prueba dario
 
 def test_answer():
     # arrange
